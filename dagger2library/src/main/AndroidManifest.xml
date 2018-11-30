@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="eu.applabs.dagger2library">
+
+    <application>
+        <activity android:name=".feature.FeatureActivity"/>
+    </application>
+
+</manifest>
+
